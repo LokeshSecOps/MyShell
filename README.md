@@ -4,7 +4,7 @@ A lightweight custom shell built from scratch in C++ that mimics core features o
 
 ---
 
-## 🔧 Features
+## Features
 
 - ✅ Built-in commands: `cd`, `pwd`, `exit`, `history`
 - ✅ External commands using `execvp`
@@ -13,7 +13,7 @@ A lightweight custom shell built from scratch in C++ that mimics core features o
 
 ---
 
-## 💻 Demo (Sample Output)
+## Demo (Sample Output)
 
 ```bash
 [MyShell:/home/lokesh]$ pwd
@@ -28,3 +28,11 @@ A lightweight custom shell built from scratch in C++ that mimics core features o
 2  cd ..
 3  sleep 3 &
 4  history
+
+---
+
+##  Build & Run
+
+```bash
+g++ main.cpp -o myshell
+./myshell
