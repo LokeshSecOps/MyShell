@@ -10,7 +10,6 @@ A lightweight custom shell built from scratch in C++ that mimics core features o
 - ✅ External commands using `execvp`
 - ✅ Background process execution (`&`)
 - ✅ Custom shell prompt with current working directory
-
 ---
 
 ## Demo (Sample Output)
