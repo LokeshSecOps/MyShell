@@ -10,7 +10,7 @@
 #include <fcntl.h>
 #include <signal.h>
 #include <map>
-
+ 
 enum JobState { Running, Stopped };
 struct Job {
     pid_t pid;
