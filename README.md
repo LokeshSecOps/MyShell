@@ -8,7 +8,7 @@ A lightweight custom shell built from scratch in C++ that mimics core features o
 
 - ✅ Built-in commands: `cd`, `pwd`, `exit`, `history`
 - ✅ External commands using `execvp`
-- ✅ Background process execution (`&`)
+- ✅ Background process execution (`&`) 
 - ✅ Custom shell prompt with current working directory
 ---
 
