@@ -15,7 +15,7 @@ A lightweight custom shell built from scratch in C++ that mimics core features o
 ## Demo (Sample Output)
 
 ```bash
-[MyShell:/home/lokesh]$ pwd
+[MyShell:/home/lokesh]$ pwd 
 /home/lokesh
 
 [MyShell:/home/lokesh]$ cd ..
